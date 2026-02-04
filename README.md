@@ -46,7 +46,10 @@ Se han tomado decisiones de limpieza y estandarización para garantizar la coher
 
 
 ## Preguntas clave / Hipótesis
-1. En los meses de junio y agosto, la asistencia de los estudiantes de la provincia de Magallanes es menor que la de los estudiantes de Antofagasta. 
+1. 
+
+ Aceleración inflacionaria post-2021: Se observa un salto significativo en los valores a partir de 2022. En "Alimentos", el valor pasa de ~27 a ~36-37. La hipótesis es que factores externos (crisis de suministros o energía) impactaron con mayor fuerza a partir de ese año.
+Alimentos como motor del índice: El grupo 01 (Alimentos) muestra un crecimiento acumulado mucho mayor que el Índice General y que el grupo 05 (Muebles). Se puede plantear que la inflación en Canarias (ISTAC) está siendo impulsada principalmente por la cesta de la compra básica.. 
 2. En los meses de junio y agosto, la asistencia de las niñas es menor que la de los niños. 
 
 
