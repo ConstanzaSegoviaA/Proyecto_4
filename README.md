@@ -10,7 +10,7 @@ Aumentar la calidad de vida de los residentes de Madrid al disminuir los gastos 
 
 ## Contexto del negocio
 Este proyecto se plantea como una idea de negocio que busca mejorar la calidad de vida de los residentes de Madrid al disminuir los gastos de consumo de la canasta básica. Esta idea nace debido al aumento significativo y constante de los alimentos.
-Implementar una plataforma de mercado que ofrece a pequeños comercios y cadenas de restauración en Madrid un índice de competitividad en tiempo real.
+Implementar una plataforma de mercado que ofrece a pequeños comercios y cadenas de restauración en Madrid un índice de competitividad en tiempo real y al cliente identificar donde se encuentran los precios más bajos.
 
 
 
